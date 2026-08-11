@@ -17,7 +17,7 @@ Smart server selection, a real kill switch, and per-app split tunnelling — no 
 
 </div>
 
----
+<img src=".github/assets/divider.png" alt="" width="100%" height="1" />
 
 ## 📸 Screenshots
 
@@ -31,7 +31,7 @@ Smart server selection, a real kill switch, and per-app split tunnelling — no 
 
 </div>
 
----
+<img src=".github/assets/divider.png" alt="" width="100%" height="1" />
 
 ## ⭐ Loved on Google Play
 
@@ -47,7 +47,7 @@ Live from Google Play — [read the reviews →](https://play.google.com/store/a
 
 </div>
 
----
+<img src=".github/assets/divider.png" alt="" width="100%" height="1" />
 
 ## ✨ Why VPNi
 
@@ -60,7 +60,7 @@ Live from Google Play — [read the reviews →](https://play.google.com/store/a
 | 🔀 **Per-app split tunnelling** | Choose exactly which apps use the VPN. |
 | 🔒 **Secure by design** | Modern Reality / VLESS protocol stack, no account required. |
 
----
+<img src=".github/assets/divider.png" alt="" width="100%" height="1" />
 
 ## ⬇️ Download &amp; Install
 
@@ -82,7 +82,7 @@ Use **[Obtainium](https://github.com/ImranR98/Obtainium)** to get notified the m
 2. **Add app** → paste `https://github.com/DigitalDTech/vpni_app`
 3. Obtainium tracks every release and prompts you to update.
 
----
+<img src=".github/assets/divider.png" alt="" width="100%" height="1" />
 
 ## 🔐 Verify your download
 
@@ -94,7 +94,7 @@ sha256sum vpni-vX.Y.Z.apk
 
 Compare the output to the checksum in the release notes — they must match exactly.
 
----
+<img src=".github/assets/divider.png" alt="" width="100%" height="1" />
 
 <div align="center">
 
