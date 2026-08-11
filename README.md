@@ -9,9 +9,9 @@ Smart server selection, a real kill switch, and per-app split tunnelling — no 
 
 <br />
 
-[![Download](https://img.shields.io/badge/Download-Latest%20APK-E23B3B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DigitalDTech/vpni_app/releases/latest)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vpni.android)
 &nbsp;
-[![Package](https://img.shields.io/badge/com.vpni.android-2A2A2A?style=for-the-badge)](https://github.com/DigitalDTech/vpni_app/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-E23B3B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DigitalDTech/vpni_app/releases/latest)
 &nbsp;
 [![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DigitalDTech/vpni_app/releases/latest)
 
@@ -48,7 +48,9 @@ Smart server selection, a real kill switch, and per-app split tunnelling — no 
 
 ## ⬇️ Download &amp; Install
 
-Grab the latest signed APK from the **[Releases](https://github.com/DigitalDTech/vpni_app/releases/latest)** page.
+**Easiest:** install from **[Google Play](https://play.google.com/store/apps/details?id=com.vpni.android)** — automatic updates, one tap.
+
+Or grab the latest signed APK from the **[Releases](https://github.com/DigitalDTech/vpni_app/releases/latest)** page (off-store build with the in-app self-updater):
 
 1. Download `vpni-vX.Y.Z.apk` from the latest release.
 2. Open it on your Android device.
