@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/wordmark.png" alt="VPNi" width="360" />
+<img src=".github/assets/logo-header.png" alt="VPNi" width="150" />
 
 ### Secure Privacy Everywhere.
 
