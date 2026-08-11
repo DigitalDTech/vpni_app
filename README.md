@@ -56,7 +56,6 @@ switch, and per-app split tunnelling. No logs, no account, no data caps.
 - Automatic server selection picks a fast server for you.
 - Always-on kill switch blocks traffic if the tunnel drops.
 - Per-app split tunnelling. Choose which apps use the VPN.
-- Reality / VLESS protocol stack. No account required.
 
 <img src=".github/assets/divider.png" alt="" width="100%" height="1" />
 
