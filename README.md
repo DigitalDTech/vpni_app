@@ -15,6 +15,12 @@ Smart server selection, a real kill switch, and per-app split tunnelling — no 
 &nbsp;
 [![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DigitalDTech/vpni_app/releases/latest)
 
+[![Rating](https://img.shields.io/badge/%E2%98%85_4.8-178_reviews-FFA41C?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vpni.android)
+&nbsp;
+[![Installs](https://img.shields.io/badge/Installs-10K%2B-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vpni.android)
+
+<sub>Ratings &amp; installs from Google Play</sub>
+
 </div>
 
 ---
