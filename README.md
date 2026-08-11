@@ -15,12 +15,6 @@ Smart server selection, a real kill switch, and per-app split tunnelling — no 
 &nbsp;
 [![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DigitalDTech/vpni_app/releases/latest)
 
-[![Rating](https://img.shields.io/badge/%E2%98%85_4.8-178_reviews-FFA41C?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vpni.android)
-&nbsp;
-[![Installs](https://img.shields.io/badge/Installs-10K%2B-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vpni.android)
-
-<sub>Ratings &amp; installs from Google Play</sub>
-
 </div>
 
 ---
@@ -35,6 +29,22 @@ Smart server selection, a real kill switch, and per-app split tunnelling — no 
 | 🛡️ **Always-on kill switch** | Blocks all traffic the moment the tunnel drops. |
 | 🔀 **Per-app split tunnelling** | Choose exactly which apps use the VPN. |
 | 🔒 **Secure by design** | Modern Reality / VLESS protocol stack, no account required. |
+
+---
+
+## ⭐ Loved on Google Play
+
+<div align="center">
+
+[![Rating](https://img.shields.io/badge/%E2%98%85_4.8-out_of_5-FFA41C?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vpni.android)
+&nbsp;
+[![Reviews](https://img.shields.io/badge/178-reviews-2A2A2A?style=for-the-badge)](https://play.google.com/store/apps/details?id=com.vpni.android)
+&nbsp;
+[![Installs](https://img.shields.io/badge/10K%2B-installs-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.vpni.android)
+
+**Rated 4.8 / 5** across **178 reviews** — [read them on Google Play →](https://play.google.com/store/apps/details?id=com.vpni.android)
+
+</div>
 
 ---
 
