@@ -19,16 +19,17 @@ Smart server selection, a real kill switch, and per-app split tunnelling — no 
 
 ---
 
-## ✨ Why VPNi
+## 📸 Screenshots
 
-| | |
-|---|---|
-| ♾️ **Zero-logs policy** | We never track, store, or sell your activity. |
-| 🚀 **Unlimited bandwidth** | No throttling, no data caps, no paywalls. |
-| 🤖 **Auto server pick** | Races servers in parallel and connects through the fastest. |
-| 🛡️ **Always-on kill switch** | Blocks all traffic the moment the tunnel drops. |
-| 🔀 **Per-app split tunnelling** | Choose exactly which apps use the VPN. |
-| 🔒 **Secure by design** | Modern Reality / VLESS protocol stack, no account required. |
+<div align="center">
+
+<img src=".github/assets/screenshots/01-connect.png"      alt="One-tap connect"       width="19%" />
+<img src=".github/assets/screenshots/02-locations.png"    alt="Global locations"      width="19%" />
+<img src=".github/assets/screenshots/03-killswitch.png"   alt="Always-on kill switch" width="19%" />
+<img src=".github/assets/screenshots/04-split-tunnel.png" alt="Split tunnelling"      width="19%" />
+<img src=".github/assets/screenshots/05-trust.png"        alt="Why trust VPNi"        width="19%" />
+
+</div>
 
 ---
 
@@ -48,17 +49,16 @@ Live from Google Play — [read the reviews →](https://play.google.com/store/a
 
 ---
 
-## 📸 Screenshots
+## ✨ Why VPNi
 
-<div align="center">
-
-<img src=".github/assets/screenshots/01-connect.png"      alt="One-tap connect"       width="19%" />
-<img src=".github/assets/screenshots/02-locations.png"    alt="Global locations"      width="19%" />
-<img src=".github/assets/screenshots/03-killswitch.png"   alt="Always-on kill switch" width="19%" />
-<img src=".github/assets/screenshots/04-split-tunnel.png" alt="Split tunnelling"      width="19%" />
-<img src=".github/assets/screenshots/05-trust.png"        alt="Why trust VPNi"        width="19%" />
-
-</div>
+| | |
+|---|---|
+| ♾️ **Zero-logs policy** | We never track, store, or sell your activity. |
+| 🚀 **Unlimited bandwidth** | No throttling, no data caps, no paywalls. |
+| 🤖 **Auto server pick** | Races servers in parallel and connects through the fastest. |
+| 🛡️ **Always-on kill switch** | Blocks all traffic the moment the tunnel drops. |
+| 🔀 **Per-app split tunnelling** | Choose exactly which apps use the VPN. |
+| 🔒 **Secure by design** | Modern Reality / VLESS protocol stack, no account required. |
 
 ---
 
